@@ -1,6 +1,6 @@
 
 body {
-background-color: rgb(185, 35, 35);
+background-color: rgb(58, 34, 34);
 font-family: Bai Jamjuree;
 
 } 
@@ -18,7 +18,7 @@ flex-basis: calc(33% -6rem);
 
 }
 .cartao__conteudo h3 {
-background-color: tomato;
+background-color: rgb(184, 171, 169);
 text-align: left;
 padding: 0.5rem;
 position: absolute;
